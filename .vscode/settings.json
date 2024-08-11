@@ -1,0 +1,13 @@
+{
+    "go.lintTool": "golangci-lint",
+    "go.lintOnSave": "workspace",
+    "editor.formatOnSave": true,
+    "cSpell.words": [
+        "clihandler",
+        "commandhandler",
+        "crmhandler",
+        "customerhandler",
+        "filehandler",
+        "transporthandler"
+    ],
+}

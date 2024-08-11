@@ -1,0 +1,32 @@
+{
+  "customers": {
+    "filePath": "./data/customers.json"
+  },
+  "company": {
+    "gridX": 20,
+    "gridY": 30
+  },
+  "users": {
+    "filePath": "./data/users.json"
+  },
+  "gridLimits": {
+    "minX": 0,
+    "maxX": 100,
+    "minY": 0,
+    "maxY": 100
+  },
+  "vehicles": {
+    "lorry": {
+      "speed": 35,
+      "trafficDelayTime": 2,
+      "trafficDelayFrequency": 3
+    },
+    "canalBoat": {
+      "speed": 17
+    },
+    "heliCopter": {
+      "speed": 65,
+      "initialDelay": 30
+    }
+  }
+}

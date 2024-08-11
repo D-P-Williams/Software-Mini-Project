@@ -1,0 +1,19 @@
+{
+    "customers": [
+        {
+            "name": "Customer A",
+            "gridX": 10,
+            "gridY": 25
+        },
+        {
+            "name": "Customer B",
+            "gridX": 40,
+            "gridY": 55
+        },
+        {
+            "name": "Customer C",
+            "gridX": 90,
+            "gridY": 60
+        }
+    ]
+}
